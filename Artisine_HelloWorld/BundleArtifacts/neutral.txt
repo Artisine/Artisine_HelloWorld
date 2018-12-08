@@ -1,0 +1,1 @@
+MainPackage=C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bin\Debug\Artisine_HelloWorld_1.0.0.0_AnyCPU_Debug.appx

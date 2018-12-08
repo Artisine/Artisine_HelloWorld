@@ -31,7 +31,7 @@
     <AppXManifest Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-12-08T10:18:01.907</Modified>
+      <Modified>2018-12-08T18:59:40.684</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -45,7 +45,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\index.html">
       <PackagePath>index.html</PackagePath>
-      <Modified>2018-12-08T10:26:05.369</Modified>
+      <Modified>2018-12-08T10:33:33.257</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
@@ -83,11 +83,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\js\main.js">
       <PackagePath>js\main.js</PackagePath>
-      <Modified>2018-12-08T10:32:41.265</Modified>
+      <Modified>2018-12-08T19:13:55.231</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2018-12-08T10:18:01.773</Modified>
+      <Modified>2018-12-08T18:59:40.562</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

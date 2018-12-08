@@ -1,4 +1,3 @@
-C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bin\Debug\ReverseMap\resources.pri
 C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bin\Debug\AppxManifest.xml
 C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bin\Debug\Artisine_HelloWorld.build.appxrecipe
 C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bld\Debug\Artisine_HelloWorld.jsproj.CoreCompileInputs.cache
@@ -19,3 +18,4 @@ C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bld\De
 C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bld\Debug\qualifiers.txt.intermediate
 C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bld\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bld\Debug\ProjectArchitectures.txt
+C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bin\Debug\ReverseMap\resources.pri

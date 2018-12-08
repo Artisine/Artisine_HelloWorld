@@ -1,0 +1,17 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bld\Debug\filemap.pri"			"resources.pri"
+"C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bld\Debug\PackageLayout\index.html"			"index.html"
+"C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bld\Debug\PackageLayout\js\main.js"			"js\main.js"
+"C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bld\Debug\PackageLayout\images\Wide310x150Logo.scale-200.png"			"images\Wide310x150Logo.scale-200.png"
+"C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bld\Debug\PackageLayout\images\StoreLogo.png"			"images\StoreLogo.png"
+"C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bld\Debug\PackageLayout\images\Square44x44Logo.targetsize-24_altform-unplated.png"			"images\Square44x44Logo.targetsize-24_altform-unplated.png"
+"C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bld\Debug\PackageLayout\images\Square44x44Logo.scale-200.png"			"images\Square44x44Logo.scale-200.png"
+"C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bld\Debug\PackageLayout\images\Square150x150Logo.scale-200.png"			"images\Square150x150Logo.scale-200.png"
+"C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bld\Debug\PackageLayout\images\SplashScreen.scale-200.png"			"images\SplashScreen.scale-200.png"
+"C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bld\Debug\PackageLayout\images\LockScreenLogo.scale-200.png"			"images\LockScreenLogo.scale-200.png"
+"C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bld\Debug\PackageLayout\css\w3.css"			"css\w3.css"
+"C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bld\Debug\PackageLayout\css\default.css"			"css\default.css"
