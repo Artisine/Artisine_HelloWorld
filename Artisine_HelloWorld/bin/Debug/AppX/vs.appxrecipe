@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-1TG4QCG</Machine>
+    <WindowsUser>Cheeho</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ff5f2c6d-1ecd-4717-8635-4af5de1c4eb0</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Cheeho</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>0ED043EA80A2DDABCFC2CF685052D0B5CCBC5CF5D2113B6EE1BC8D566C236A08</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ff5f2c6d-1ecd-4717-8635-4af5de1c4eb0_1.0.0.0_neutral__cyrk8mhm74gvr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ff5f2c6d-1ecd-4717-8635-4af5de1c4eb0_cyrk8mhm74gvr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ff5f2c6d-1ecd-4717-8635-4af5de1c4eb0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Cheeho</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-12-08T10:16:08.125</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-12-08T10:16:27.001</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-12-03T18:41:51.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-12-03T18:41:51.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-12-03T18:41:51.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-12-03T18:41:51.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-12-03T18:41:51.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-12-03T18:41:51.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-12-03T18:41:51.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2018-12-08T10:14:01.235</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-12-08T10:11:26.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2018-12-08T10:16:07.993</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
