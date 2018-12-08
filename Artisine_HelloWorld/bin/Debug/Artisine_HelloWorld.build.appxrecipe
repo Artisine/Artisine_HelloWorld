@@ -25,6 +25,12 @@
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\css\w3.css">
+      <PackagePath>css\w3.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\index.html">
       <PackagePath>index.html</PackagePath>
     </AppxPackagedFile>
@@ -57,9 +63,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\js\main.js">
       <PackagePath>js\main.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\css\default.css">
-      <PackagePath>css\default.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>

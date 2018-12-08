@@ -3,3 +3,6 @@
   touch-action: manipulation;
   */
 }
+canvas {
+    background-color: #808080;
+}
