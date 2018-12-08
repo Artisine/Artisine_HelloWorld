@@ -15,8 +15,14 @@ function Rectangle() {
     this.Color = "red";
     this.Position = { X: 0, Y: Globals["Canvas"].height / 2 };
     this.Size = { X: 20, Y: 10 };
-    this.Velocity = { X: 1, Y: 0 };
+    this.Velocity = { X: 3, Y: 0 };
     this.translate = function () {
+        if (this.Position.X > Globals["Canvas"].width + this.Size.X / 2) {
+            this.Position = -this.Size.X / 2;
+        }
+        if (this.Position.X < -this.Size.X / 2) {
+            this.Position.X = Globals["Canvas"].widht + this.Size.X / 2;
+        }
         this.Position.X += this.Velocity.X;
         this.Position.Y += this.Velocity.Y;
     };
@@ -40,6 +46,7 @@ function Rectangle() {
 function update() {
     Globals["Ctx"].clearRect(0, 0, Globals["Canvas"].width, Globals["Canvas"].height);
     for (var i in Globals["Entities"]) {
+        Globals["Entities"][i].translate();
         Globals["Entities"][i].render();
     }
     setTimeout(update, 50);

@@ -83,7 +83,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\js\main.js">
       <PackagePath>js\main.js</PackagePath>
-      <Modified>2018-12-08T10:24:24.209</Modified>
+      <Modified>2018-12-08T10:32:41.265</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Chee-Ho\Documents\Github\Artisine_HelloWorld\Artisine_HelloWorld\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
